@@ -6,6 +6,7 @@
 
 # Note
 * plist.get and plist.set function as normal, they have been modified to work with added controls as well as default controls.
+* Either paste the code into your script or require it.
 
 ## Example Usage
 ```
